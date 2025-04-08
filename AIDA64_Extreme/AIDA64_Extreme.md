@@ -19,7 +19,7 @@ AIDA64 Extreme es una suite de diagnóstico y benchmarking para Windows. Muestra
    - **Computer > Summary**: resumen del sistema.
    - **Motherboard, CPU, GPU**: info técnica.
 3. Para test de estrés:
-   - Ir a **Tools > System Stability Test**.
+   - Ir a Tools > System Stability Test.
    - Marcar CPU, FPU, cache y memoria, luego clic en “Start”.
 
 ![Test](comohacertest.png)

@@ -8,7 +8,7 @@ CPU-Z es una herramienta gratuita que muestra información técnica detallada so
 
 1. Ir a [https://www.cpuid.com/softwares/cpu-z.html](https://www.cpuid.com/softwares/cpu-z.html)
 2. Descargar la versión ZIP o instalador.
-3. Ejecutar `cpuz.exe`.
+3. Ejecutar cpuz.exe.
 
 ![Descarga CPU-Z](descargarCPU-Z.png)
 
@@ -25,6 +25,6 @@ CPU-Z es una herramienta gratuita que muestra información técnica detallada so
 ### Interpretación
 
 - Información útil para conocer especificaciones reales.
-- En la pestaña **Bench**, puedes correr un benchmark de CPU básico y compararlo.
+- En la pestaña Bench, puedes correr un benchmark de CPU básico y compararlo.
 
 ![Benchmark](benchmarkCPU-Z.png)

@@ -8,7 +8,7 @@ Cinebench es una herramienta de benchmarking desarrollada por Maxon. Evalúa el 
 
 1. Ir al sitio oficial: [https://www.maxon.net/en/cinebench](https://www.maxon.net/en/cinebench)
 2. Descargar la versión para Windows o macOS.
-3. Extraer el archivo ZIP y ejecutar el archivo `Cinebench.exe`.
+3. Extraer el archivo ZIP y ejecutar el archivo Cinebench.exe.
 
 ![Descarga Cinebench](descargarcinebench.png)
 
@@ -16,8 +16,8 @@ Cinebench es una herramienta de benchmarking desarrollada por Maxon. Evalúa el 
 
 1. Ejecuta el programa.
 2. Selecciona el tipo de test:
-   - **CPU (Multi Core)**
-   - **CPU (Single Core)**
+   - CPU (Multi Core)
+   - CPU (Single Core)
 
 3. Haz clic en “Start” para iniciar el test.
 
